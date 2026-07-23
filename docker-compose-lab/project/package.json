@@ -1,0 +1,26 @@
+{
+  "name": "carebridge-hospital-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hospital appointment JSON REST API built with Express and MySQL",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "start:prod": "node dist/src/server.js",
+    "dev": "node --watch src/server.js",
+    "check": "find src test -name '*.js' -print0 | xargs -0 -n1 node --check",
+    "build": "npm run check && node scripts/build.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-validator": "^7.3.2",
+    "helmet": "^8.3.0",
+    "morgan": "^1.11.0",
+    "mysql2": "^3.22.6"
+  }
+}

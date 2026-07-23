@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-labelledby="title description">
+  <title id="title">CareBridge doctor and patient</title>
+  <desc id="description">A friendly doctor standing beside a patient in a hospital room.</desc>
+  <rect x="18" y="18" width="444" height="324" rx="48" fill="#fff"/>
+  <circle cx="390" cy="80" r="34" fill="#d8efe8"/>
+  <path d="M378 80h24M390 68v24" stroke="#087f6d" stroke-width="7" stroke-linecap="round"/>
+  <path d="M54 294c72-44 118-26 179-5 63 22 116 29 193-2v55H54z" fill="#d8efe8"/>
+  <rect x="78" y="207" width="116" height="78" rx="18" fill="#f3c9a9"/>
+  <path d="M82 221h109v36H82z" fill="#ef9b78"/>
+  <circle cx="137" cy="165" r="37" fill="#9d5c3f"/>
+  <path d="M102 163c3-43 72-52 76 2-18-7-38-22-47-34-4 16-14 27-29 32z" fill="#17312d"/>
+  <path d="M105 214c22-18 46-18 66 0l14 70H91z" fill="#087f6d"/>
+  <circle cx="294" cy="126" r="38" fill="#c97d54"/>
+  <path d="M257 126c0-51 77-55 77 2-23-7-43-22-54-35-3 16-11 27-23 33z" fill="#17312d"/>
+  <path d="M249 182c29-24 61-24 90 0l24 119H225z" fill="#fff" stroke="#d7e6e1" stroke-width="4"/>
+  <path d="M270 174l24 32 25-32M294 206v84" fill="none" stroke="#087f6d" stroke-width="5"/>
+  <circle cx="294" cy="244" r="13" fill="none" stroke="#087f6d" stroke-width="5"/>
+  <path d="M235 207c-31 5-45 19-61 42" fill="none" stroke="#c97d54" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="174" cy="249" r="8" fill="#c97d54"/>
+</svg>

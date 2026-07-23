@@ -1,0 +1,12 @@
+services:
+  app:
+    build:
+      context: ./project
+      dockerfile: Dockerfile
+    image: carebridge-backend:local
+    init: true
+    restart: unless-stopped
+    env_file:
+      - .env
+    ports:
+      - "${PORT:-3000}:${PORT:-3000}"
